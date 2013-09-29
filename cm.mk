@@ -5,7 +5,7 @@
 $(call inherit-product, vendor/cm/config/gsm.mk)
 
 # Release name
-PRODUCT_RELEASE_NAME := n7108
+PRODUCT_RELEASE_NAME := Galaxy Note 2 CHN
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1280
